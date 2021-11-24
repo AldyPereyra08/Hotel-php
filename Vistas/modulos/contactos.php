@@ -1,7 +1,7 @@
 <div class="contact py-5" id="contact">
          <div class="container  py-md-3">
 		 <div class="w3-head-all mb-3 w3-head-col">
-		         <h3>Contactanos</h3>
+		         <h3>Contáctanos</h3>
 		       </div>
 			 <div class="address-below">
             <div class="contact-icons text-center row">
